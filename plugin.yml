@@ -1,0 +1,8 @@
+name: ItemCommandRepair
+main: icr.main.ItemCommandRepair
+version: 0.2
+commands:
+    commandrepair:
+        description: Command zum reparieren (Reloaden/Version abfragen)
+        usage: /<command> <version/reload/help/check/repair>
+        aliases: [crp,cmrp]
