@@ -14,7 +14,7 @@ public static double getVersion() {
   String op = "";
 
   try {
-     u = new URL("https://raw.github.com/Shadowlauch/ItemCommandRepair/master/version.txt");
+     u = new URL("https://raw.github.com/Shadowlauch/ItemCommandShop/master/version.txt");
      is = u.openStream();         // throws an IOException
      dis = new DataInputStream(new BufferedInputStream(is));
 

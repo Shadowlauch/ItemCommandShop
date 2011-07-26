@@ -5,7 +5,6 @@
 	<classpathentry kind="lib" path="C:/Users/Lars/Desktop/minecraft/plugins/EssentialsGroupBridge.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Lars/Desktop/minecraft/plugins/EssentialsGroupManager.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Lars/Desktop/minecraft/plugins/iConomy.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Lars/Desktop/GlobalShop.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Lars/Desktop/minecraft/craftbukkit.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
