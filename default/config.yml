@@ -30,8 +30,35 @@ ratios:
     shovel: 0.02
     sword: 0.03
     hoe: 0.03
+  stone:
+    pickaxe: 0.006
+    axe: 0.006
+    shovel: 0.002
+    sword: 0.003
+    hoe: 0.003
   others:
     shears: 0.02
+  armor:
+    chain:
+      helmet: 0.1
+      chestplate: 0.13
+      leggings: 0.11
+      boots: 0.08 
+    iron:
+      helmet: 0.4
+      chestplate: 0.8
+      leggings: 0.6
+      boots: 0.2
+    gold:
+      helmet: 0.8
+      chestplate: 1.5
+      leggings: 1.3
+      boots: 0.5
+    diamond:
+      helmet: 0.8
+      chestplate: 1.5
+      leggings: 1.3
+      boots: 0.5
     
 
 

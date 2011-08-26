@@ -1,6 +1,6 @@
 name: ItemCommandRepair
 main: icr.main.ItemCommandRepair
-version: 0.2
+version: 0.3
 commands:
     commandrepair:
         description: Command zum reparieren (Reloaden/Version abfragen)

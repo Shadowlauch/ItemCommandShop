@@ -58,6 +58,39 @@ public class Commands implements CommandExecutor {
         		  		setMoney(p,plugin.config.gh_rat,dur);break;
         		  	case 359:
         		  		setMoney(p,plugin.config.shears_rat,dur);break;
+        		  		
+        		  	case 302:
+        		  		setMoney(p,plugin.config.cha_rat,dur);break;
+        		  	case 303:
+        		  		setMoney(p,plugin.config.cca_rat,dur);break;
+        		  	case 304:
+        		  		setMoney(p,plugin.config.cla_rat,dur);break;
+        		  	case 305:
+        		  		setMoney(p,plugin.config.cba_rat,dur);break;
+        		  	case 306:
+        		  		setMoney(p,plugin.config.iha_rat,dur);break;
+        		  	case 307:
+        		  		setMoney(p,plugin.config.ica_rat,dur);break;
+        		  	case 308:
+        		  		setMoney(p,plugin.config.ila_rat,dur);break;
+        		  	case 309:
+        		  		setMoney(p,plugin.config.iba_rat,dur);break;
+        		  	case 310:
+        		  		setMoney(p,plugin.config.dha_rat,dur);break;
+        		  	case 311:
+        		  		setMoney(p,plugin.config.dca_rat,dur);break;
+        		  	case 312:
+        		  		setMoney(p,plugin.config.dla_rat,dur);break;
+        		  	case 313:
+        		  		setMoney(p,plugin.config.dba_rat,dur);break;
+        		  	case 314:
+        		  		setMoney(p,plugin.config.gha_rat,dur);break;
+        		  	case 315:
+        		  		setMoney(p,plugin.config.gca_rat,dur);break;
+        		  	case 316:
+        		  		setMoney(p,plugin.config.gla_rat,dur);break;
+        		  	case 317:
+        		  		setMoney(p,plugin.config.gba_rat,dur);break;
         		  	default:
         		  	;	
         		  }
@@ -133,6 +166,38 @@ public class Commands implements CommandExecutor {
 	        		  		checkMoney(p,plugin.config.gh_rat,dur);break;
 	        		  	case 359:
 	        		  		checkMoney(p,plugin.config.shears_rat,dur);break;
+	        		  	case 302:
+	        		  		checkMoney(p,plugin.config.cha_rat,dur);break;
+	        		  	case 303:
+	        		  		checkMoney(p,plugin.config.cca_rat,dur);break;
+	        		  	case 304:
+	        		  		checkMoney(p,plugin.config.cla_rat,dur);break;
+	        		  	case 305:
+	        		  		checkMoney(p,plugin.config.cba_rat,dur);break;
+	        		  	case 306:
+	        		  		checkMoney(p,plugin.config.iha_rat,dur);break;
+	        		  	case 307:
+	        		  		checkMoney(p,plugin.config.ica_rat,dur);break;
+	        		  	case 308:
+	        		  		checkMoney(p,plugin.config.ila_rat,dur);break;
+	        		  	case 309:
+	        		  		checkMoney(p,plugin.config.iba_rat,dur);break;
+	        		  	case 310:
+	        		  		checkMoney(p,plugin.config.dha_rat,dur);break;
+	        		  	case 311:
+	        		  		checkMoney(p,plugin.config.dca_rat,dur);break;
+	        		  	case 312:
+	        		  		checkMoney(p,plugin.config.dla_rat,dur);break;
+	        		  	case 313:
+	        		  		checkMoney(p,plugin.config.dba_rat,dur);break;
+	        		  	case 314:
+	        		  		checkMoney(p,plugin.config.gha_rat,dur);break;
+	        		  	case 315:
+	        		  		checkMoney(p,plugin.config.gca_rat,dur);break;
+	        		  	case 316:
+	        		  		checkMoney(p,plugin.config.gla_rat,dur);break;
+	        		  	case 317:
+	        		  		checkMoney(p,plugin.config.gba_rat,dur);break;
 	        		  	default:
 	        		  	;	
 	        		  }
